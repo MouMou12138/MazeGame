@@ -9,8 +9,6 @@
 
 一个基于 Python Pygame 开发的 2D 迷宫探险游戏，采用模块化设计，包含丰富的游戏元素和现代化的用户界面。
 
-![游戏截图](screenshots/gameplay.png)
-
 ## ✨ 特性
 
 ### 🎯 核心功能
@@ -50,5 +48,5 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/yourusername/maze-adventure-game.git
-   cd maze-adventure-game
+   git clone https://github.com/MouMou12138/MazeGame.git
+   cd MazeGame
